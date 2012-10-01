@@ -1,5 +1,4 @@
 add 1st line.
 this is a test document.
-i am a git user.
 add 3rd line.
 added 4th line.
